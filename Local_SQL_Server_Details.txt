@@ -1,0 +1,20 @@
+Server=localhost;Database=master;Trusted_Connection=True;
+
+INSTANCE NAME  : MSSQLSERVER
+
+SERVER : HIBAML55153
+
+Admin : ADHARMAN\dhineshkumarm
+
+ sqlcmd -S HIBAML55153 -E
+ 
+1. Create User with required Server role
+2. Add user to db with required db role
+3. Create Schema and add user as owner
+
+4. Create tables
+5. Create SPs with new schema
+
+
+
+ 

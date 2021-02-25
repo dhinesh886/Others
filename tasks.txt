@@ -1,0 +1,74 @@
+Yesterday
+Got wc api build, Unit testing and fixing the UT issues
+Deployed the build to QAE
+Found few UI issues during UT with the data
+
+yesterday
+code merge 
+Pick up the Aggregation report API changes 
+code merge
+
+Will work on the UI issues with Chandu
+
+yesterday
+viveks analysis
+bug fixes
+
+yesterday
+work with satheesh on few report issue and any rpag bug fixes
+work with ravi on the code review
+
+yesterday
+work with joseph on the aggregation report API design
+and support 21st relase QA 
+tonight call with principal company end advisors for teams setup
+tonight call will get other items priritized for next release
+
+yesterday
+chandu needs help
+vivek's email analysis
+bug fixes
+Move client across client API and UI prototype and clarifications 
+
+yesterday
+will work on the end users concern on the action item report shared by Vivek
+got the clarification for move particpant and will work on it
+
+Today
+build to qae
+two new tickets analysis and start working
+zoom meeting token analysis
+
+--01/12
+shared the anlysis with vivek. 
+fixed report defects
+
+01/25
+worked on next iteration tickets
+had a call with vivek
+new ticket added so will work on the release plan next week
+
+we have got few concerns on the report from dianna
+
+one of the concern required a script fix so will have to plan for the script this week
+
+
+01/27
+
+will discuss on script fix seperately and work on it
+
+and will work on the estimate for the new ticket
+
+and will continue to work on the next iteration dev
+
+01/28 
+
+new ticket tech approach and estimates
+will work on nxt set tickets
+
+
+
+
+
+
+

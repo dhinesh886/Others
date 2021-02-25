@@ -1,0 +1,27 @@
+SAST Tools
+https://www.softwaresecured.com/top-sast-tools-for-developers/
+Visual code Grepper- VCGI
+
+DAST
+SQL injection
+	https://kalilinuxtutorials.com/sql-injection/
+	SQL MAP - tool to attack db
+	Input validation - whitelisting
+
+
+Password Hash retriver
+	 hascat
+IDOR
+
+XSS
+htmlencode
+
+these approaches are not reliable as it works based on the brwser 
+	asp.net code middleware
+	IIS level as header
+
+
+Cert
+-- CASE.NET
+-- Cert Nexas
+
